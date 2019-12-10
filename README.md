@@ -7,7 +7,7 @@ This task is intended to predict the credit fraud.
 2. Liou King Long (1155110131)
 
 ### Files Included:
-1. _**credit-test.csv**_: Training data
+1. _**credit-test.csv**_: Testing data
 2. _**Script.ipynb**_: The code for running the algorithms in jupyter notebook
 3. _**Script.py**_: The code for running the algorithms
 4. _**submission2_rft.csv**_: The submission file of random forest
