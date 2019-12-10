@@ -18,5 +18,5 @@ _*The 2 folders can be ignored._
 
 ### Running the Codes:
 You can use 2 methods to run the codes.
-1. Open _Jupyter Notebook_ to run all the cells in _**Script.ipynb**.
+1. Open _Jupyter Notebook_ to run all the cells in _**Script.ipynb**_.
 2. Use any IDEs to run _**Script.py**_.
